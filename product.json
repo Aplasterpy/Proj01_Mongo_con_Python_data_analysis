@@ -1,0 +1,252 @@
+[
+ {
+   "Prod_ID": "prod_1",
+   "Cust_ID": "cust_1",
+   "Prod_name": "Laptop"
+ },
+ {
+   "Prod_ID": "prod_2",
+   "Cust_ID": "cust_2",
+   "Prod_name": "Smartphone"
+ },
+ {
+   "Prod_ID": "prod_3",
+   "Cust_ID": "cust_3",
+   "Prod_name": "Earphone"
+ },
+ {
+   "Prod_ID": "prod_4",
+   "Cust_ID": "cust_4",
+   "Prod_name": "Mouse"
+ },
+ {
+   "Prod_ID": "prod_3",
+   "Cust_ID": "cust_5",
+   "Prod_name": "Earphone"
+ },
+ {
+   "Prod_ID": "prod_1",
+   "Cust_ID": "cust_6",
+   "Prod_name": "Earphone"
+ },
+ {
+   "Prod_ID": "prod_2",
+   "Cust_ID": "cust_7",
+   "Prod_name": "Mouse"
+ },
+ {
+   "Prod_ID": "prod_1",
+   "Cust_ID": "cust_8",
+   "Prod_name": "Mouse"
+ },
+ {
+   "Prod_ID": "prod_4",
+   "Cust_ID": "cust_9",
+   "Prod_name": "Earphone"
+ },
+ {
+   "Prod_ID": "prod_3",
+   "Cust_ID": "cust_10",
+   "Prod_name": "Laptop"
+ },
+ {
+   "Prod_ID": "prod_4",
+   "Cust_ID": "cust_11",
+   "Prod_name": "Mouse"
+ },
+ {
+   "Prod_ID": "prod_1",
+   "Cust_ID": "cust_12",
+   "Prod_name": "Mouse"
+ },
+ {
+   "Prod_ID": "prod_2",
+   "Cust_ID": "cust_13",
+   "Prod_name": "Earphone"
+ },
+ {
+   "Prod_ID": "prod_1",
+   "Cust_ID": "cust_14",
+   "Prod_name": "Laptop"
+ },
+ {
+   "Prod_ID": "prod_2",
+   "Cust_ID": "cust_15",
+   "Prod_name": "Mouse"
+ },
+ {
+   "Prod_ID": "prod_4",
+   "Cust_ID": "cust_16",
+   "Prod_name": "Earphone"
+ },
+ {
+   "Prod_ID": "prod_3",
+   "Cust_ID": "cust_17",
+   "Prod_name": "Mouse"
+ },
+ {
+   "Prod_ID": "prod_2",
+   "Cust_ID": "cust_18",
+   "Prod_name": "Mouse"
+ },
+ {
+   "Prod_ID": "prod_4",
+   "Cust_ID": "cust_19",
+   "Prod_name": "Laptop"
+ },
+ {
+   "Prod_ID": "prod_3",
+   "Cust_ID": "cust_20",
+   "Prod_name": "Earphone"
+ },
+ {
+   "Prod_ID": "prod_2",
+   "Cust_ID": "cust_21",
+   "Prod_name": "Mouse"
+ },
+ {
+   "Prod_ID": "prod_1",
+   "Cust_ID": "cust_22",
+   "Prod_name": "Earphone"
+ },
+ {
+   "Prod_ID": "prod_4",
+   "Cust_ID": "cust_23",
+   "Prod_name": "Mouse"
+ },
+ {
+   "Prod_ID": "prod_3",
+   "Cust_ID": "cust_24",
+   "Prod_name": "Laptop"
+ },
+ {
+   "Prod_ID": "prod_4",
+   "Cust_ID": "cust_25",
+   "Prod_name": "Mouse"
+ },
+ {
+   "Prod_ID": "prod_3",
+   "Cust_ID": "cust_26",
+   "Prod_name": "Mouse"
+ },
+ {
+   "Prod_ID": "prod_3",
+   "Cust_ID": "cust_27",
+   "Prod_name": "Mouse"
+ },
+ {
+   "Prod_ID": "prod_2",
+   "Cust_ID": "cust_28",
+   "Prod_name": "Earphone"
+ },
+ {
+   "Prod_ID": "prod_3",
+   "Cust_ID": "cust_29",
+   "Prod_name": "Laptop"
+ },
+ {
+   "Prod_ID": "prod_2",
+   "Cust_ID": "cust_30",
+   "Prod_name": "Mouse"
+ },
+ {
+   "Prod_ID": "prod_3",
+   "Cust_ID": "cust_31",
+   "Prod_name": "Mouse"
+ },
+ {
+   "Prod_ID": "prod_4",
+   "Cust_ID": "cust_32",
+   "Prod_name": "Mouse"
+ },
+ {
+   "Prod_ID": "prod_3",
+   "Cust_ID": "cust_33",
+   "Prod_name": "Mouse"
+ },
+ {
+   "Prod_ID": "prod_2",
+   "Cust_ID": "cust_34",
+   "Prod_name": "Mouse"
+ },
+ {
+   "Prod_ID": "prod_1",
+   "Cust_ID": "cust_35",
+   "Prod_name": "Mouse"
+ },
+ {
+   "Prod_ID": "prod_3",
+   "Cust_ID": "cust_36",
+   "Prod_name": "Mouse"
+ },
+ {
+   "Prod_ID": "prod_1",
+   "Cust_ID": "cust_37",
+   "Prod_name": "Earphone"
+ },
+ {
+   "Prod_ID": "prod_3",
+   "Cust_ID": "cust_38",
+   "Prod_name": "Laptop"
+ },
+ {
+   "Prod_ID": "prod_4",
+   "Cust_ID": "cust_39",
+   "Prod_name": "Mouse"
+ },
+ {
+   "Prod_ID": "prod_3",
+   "Cust_ID": "cust_40",
+   "Prod_name": "Earphone"
+ },
+ {
+   "Prod_ID": "prod_2",
+   "Cust_ID": "cust_41",
+   "Prod_name": "Mouse"
+ },
+ {
+   "Prod_ID": "prod_3",
+   "Cust_ID": "cust_42",
+   "Prod_name": "Mouse"
+ },
+ {
+   "Prod_ID": "prod_4",
+   "Cust_ID": "cust_43",
+   "Prod_name": "Earphone"
+ },
+ {
+   "Prod_ID": "prod_3",
+   "Cust_ID": "cust_44",
+   "Prod_name": "Earphone"
+ },
+ {
+   "Prod_ID": "prod_1",
+   "Cust_ID": "cust_45",
+   "Prod_name": "Laptop"
+ },
+ {
+   "Prod_ID": "prod_4",
+   "Cust_ID": "cust_46",
+   "Prod_name": "Earphone"
+ },
+ {
+   "Prod_ID": "prod_3",
+   "Cust_ID": "cust_47",
+   "Prod_name": "Mouse"
+ },
+ {
+   "Prod_ID": "prod_2",
+   "Cust_ID": "cust_48",
+   "Prod_name": "Laptop"
+ },
+ {
+   "Prod_ID": "prod_1",
+   "Cust_ID": "cust_49",
+   "Prod_name": "Earphone"
+ },
+ {
+   "Prod_ID": "prod_4",
+   "Cust_ID": "cust_50",
+   "Prod_name": "Mouse"
+ }
+]

@@ -1,0 +1,252 @@
+[
+ {
+   "Cust_ID": "cust_1",
+   "Prod_ID": "prod_1",
+   "Prod_deliver": "Y"
+ },
+ {
+   "Cust_ID": "cust_2",
+   "Prod_ID": "prod_2",
+   "Prod_deliver": "N"
+ },
+ {
+   "Cust_ID": "cust_3",
+   "Prod_ID": "prod_3",
+   "Prod_deliver": "Y"
+ },
+ {
+   "Cust_ID": "cust_4",
+   "Prod_ID": "prod_4",
+   "Prod_deliver": "N"
+ },
+ {
+   "Cust_ID": "cust_5",
+   "Prod_ID": "prod_3",
+   "Prod_deliver": "Y"
+ },
+ {
+   "Cust_ID": "cust_6",
+   "Prod_ID": "prod_1",
+   "Prod_deliver": "N"
+ },
+ {
+   "Cust_ID": "cust_7",
+   "Prod_ID": "prod_2",
+   "Prod_deliver": "N"
+ },
+ {
+   "Cust_ID": "cust_8",
+   "Prod_ID": "prod_1",
+   "Prod_deliver": "N"
+ },
+ {
+   "Cust_ID": "cust_9",
+   "Prod_ID": "prod_4",
+   "Prod_deliver": "Y"
+ },
+ {
+   "Cust_ID": "cust_10",
+   "Prod_ID": "prod_3",
+   "Prod_deliver": "N"
+ },
+ {
+   "Cust_ID": "cust_11",
+   "Prod_ID": "prod_4",
+   "Prod_deliver": "N"
+ },
+ {
+   "Cust_ID": "cust_12",
+   "Prod_ID": "prod_1",
+   "Prod_deliver": "Y"
+ },
+ {
+   "Cust_ID": "cust_13",
+   "Prod_ID": "prod_2",
+   "Prod_deliver": "N"
+ },
+ {
+   "Cust_ID": "cust_14",
+   "Prod_ID": "prod_1",
+   "Prod_deliver": "Y"
+ },
+ {
+   "Cust_ID": "cust_15",
+   "Prod_ID": "prod_2",
+   "Prod_deliver": "N"
+ },
+ {
+   "Cust_ID": "cust_16",
+   "Prod_ID": "prod_4",
+   "Prod_deliver": "N"
+ },
+ {
+   "Cust_ID": "cust_17",
+   "Prod_ID": "prod_3",
+   "Prod_deliver": "N"
+ },
+ {
+   "Cust_ID": "cust_18",
+   "Prod_ID": "prod_2",
+   "Prod_deliver": "Y"
+ },
+ {
+   "Cust_ID": "cust_19",
+   "Prod_ID": "prod_4",
+   "Prod_deliver": "Y"
+ },
+ {
+   "Cust_ID": "cust_20",
+   "Prod_ID": "prod_3",
+   "Prod_deliver": "Y"
+ },
+ {
+   "Cust_ID": "cust_21",
+   "Prod_ID": "prod_2",
+   "Prod_deliver": "Y"
+ },
+ {
+   "Cust_ID": "cust_22",
+   "Prod_ID": "prod_1",
+   "Prod_deliver": "Y"
+ },
+ {
+   "Cust_ID": "cust_23",
+   "Prod_ID": "prod_4",
+   "Prod_deliver": "Y"
+ },
+ {
+   "Cust_ID": "cust_24",
+   "Prod_ID": "prod_3",
+   "Prod_deliver": "Y"
+ },
+ {
+   "Cust_ID": "cust_25",
+   "Prod_ID": "prod_4",
+   "Prod_deliver": "N"
+ },
+ {
+   "Cust_ID": "cust_26",
+   "Prod_ID": "prod_3",
+   "Prod_deliver": ""
+ },
+ {
+   "Cust_ID": "cust_27",
+   "Prod_ID": "prod_3",
+   "Prod_deliver": "Y"
+ },
+ {
+   "Cust_ID": "cust_28",
+   "Prod_ID": "prod_2",
+   "Prod_deliver": "Y"
+ },
+ {
+   "Cust_ID": "cust_29",
+   "Prod_ID": "prod_3",
+   "Prod_deliver": "N"
+ },
+ {
+   "Cust_ID": "cust_30",
+   "Prod_ID": "prod_2",
+   "Prod_deliver": "Y"
+ },
+ {
+   "Cust_ID": "cust_31",
+   "Prod_ID": "prod_3",
+   "Prod_deliver": "N"
+ },
+ {
+   "Cust_ID": "cust_32",
+   "Prod_ID": "prod_4",
+   "Prod_deliver": "Y"
+ },
+ {
+   "Cust_ID": "cust_33",
+   "Prod_ID": "prod_3",
+   "Prod_deliver": "N"
+ },
+ {
+   "Cust_ID": "cust_34",
+   "Prod_ID": "prod_2",
+   "Prod_deliver": "Y"
+ },
+ {
+   "Cust_ID": "cust_35",
+   "Prod_ID": "prod_1",
+   "Prod_deliver": "N"
+ },
+ {
+   "Cust_ID": "cust_36",
+   "Prod_ID": "prod_3",
+   "Prod_deliver": "Y"
+ },
+ {
+   "Cust_ID": "cust_37",
+   "Prod_ID": "prod_1",
+   "Prod_deliver": "Y"
+ },
+ {
+   "Cust_ID": "cust_38",
+   "Prod_ID": "prod_3",
+   "Prod_deliver": "U"
+ },
+ {
+   "Cust_ID": "cust_39",
+   "Prod_ID": "prod_4",
+   "Prod_deliver": "N"
+ },
+ {
+   "Cust_ID": "cust_40",
+   "Prod_ID": "prod_3",
+   "Prod_deliver": "Y"
+ },
+ {
+   "Cust_ID": "cust_41",
+   "Prod_ID": "prod_2",
+   "Prod_deliver": "Y"
+ },
+ {
+   "Cust_ID": "cust_42",
+   "Prod_ID": "prod_3",
+   "Prod_deliver": "N"
+ },
+ {
+   "Cust_ID": "cust_43",
+   "Prod_ID": "prod_4",
+   "Prod_deliver": "N"
+ },
+ {
+   "Cust_ID": "cust_44",
+   "Prod_ID": "prod_3",
+   "Prod_deliver": "Y"
+ },
+ {
+   "Cust_ID": "cust_45",
+   "Prod_ID": "prod_1",
+   "Prod_deliver": "N"
+ },
+ {
+   "Cust_ID": "cust_46",
+   "Prod_ID": "prod_4",
+   "Prod_deliver": "Y"
+ },
+ {
+   "Cust_ID": "cust_47",
+   "Prod_ID": "prod_3",
+   "Prod_deliver": ""
+ },
+ {
+   "Cust_ID": "cust_48",
+   "Prod_ID": "prod_2",
+   "Prod_deliver": "Y"
+ },
+ {
+   "Cust_ID": "cust_49",
+   "Prod_ID": "prod_1",
+   "Prod_deliver": "N"
+ },
+ {
+   "Cust_ID": "cust_50",
+   "Prod_ID": "prod_4",
+   "Prod_deliver": "Y"
+ }
+]
