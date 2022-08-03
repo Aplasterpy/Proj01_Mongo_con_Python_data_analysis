@@ -1,0 +1,402 @@
+[
+ {
+   "Cust_ID": "cust_1",
+   "Cust_name": "Mrs. Grace Ortiz",
+   "Cust_address": "226, Raja Rammohan Roy Road, Opp.kotak Store, Girgaon",
+   "Cust_city": "Maharastra",
+   "Cust_state": "Mumbai",
+   "Cust_catagory": "M"
+ },
+ {
+   "Cust_ID": "cust_2",
+   "Cust_name": "Albert Matthews",
+   "Cust_address": "P-360, Keyatala Road",
+   "Cust_city": "Kolkata",
+   "Cust_state": "WB",
+   "Cust_catagory": "FM"
+ },
+ {
+   "Cust_ID": "cust_3",
+   "Cust_name": "Dr. Mark Kennedy",
+   "Cust_address": "A-11,no 125, Sri Balaji Complex, A-11,no125,sribalajicplx,sltptb53, Sultanpet",
+   "Cust_city": "Bangalore",
+   "Cust_state": "Karnataka",
+   "Cust_catagory": "FM"
+ },
+ {
+   "Cust_ID": "cust_4",
+   "Cust_name": "Pamela Lee",
+   "Cust_address": "12, Village Hauz Khas, Hauz Khas",
+   "Cust_city": "Delhi",
+   "Cust_state": "Delhi",
+   "Cust_catagory": "FM"
+ },
+ {
+   "Cust_ID": "cust_5",
+   "Cust_name": "Jack Mcfarland",
+   "Cust_address": "2nd Floor, 18, Cosmos Building, 3rd Road, Near Khar Rly Station, Khar (west)",
+   "Cust_city": "Mumbai",
+   "Cust_state": "Maharastra",
+   "Cust_catagory": "M"
+ },
+ {
+   "Cust_ID": "cust_6",
+   "Cust_name": "Ryan Fuller",
+   "Cust_address": "F 11, Triveni Complex, Sheikh Sarai",
+   "Cust_city": "Delhi",
+   "Cust_state": "Delhi",
+   "Cust_catagory": "M"
+ },
+ {
+   "Cust_ID": "cust_7",
+   "Cust_name": "Andrew Jimenez",
+   "Cust_address": "14/6, Mathura Rd Main Road",
+   "Cust_city": "Delhi",
+   "Cust_state": "Haryana",
+   "Cust_catagory": "FM"
+ },
+ {
+   "Cust_ID": "cust_8",
+   "Cust_name": "Kevin Collins",
+   "Cust_address": "Opp Doctor House Nr Parimal Garden, Ellisbridge",
+   "Cust_city": "Ahmedabad",
+   "Cust_state": "Gujarat",
+   "Cust_catagory": "M"
+ },
+ {
+   "Cust_ID": "cust_9",
+   "Cust_name": "Mark Foster",
+   "Cust_address": "294 A, Govind Wadi, Kalbadevi Rd, Opp Vithalwadi, Kalbadevi",
+   "Cust_city": "Mumbai",
+   "Cust_state": "Maharastra",
+   "Cust_catagory": "FM"
+ },
+ {
+   "Cust_ID": "cust_10",
+   "Cust_name": "Stephen Stewart",
+   "Cust_address": "P-3Chandsi Specialist Clinic, 1, Suryasen Nagar, Near Railway Station Khardah, Opp KC Choudhury Jeweler",
+   "Cust_city": "Kolkata",
+   "Cust_state": "WB",
+   "Cust_catagory": "M"
+ },
+ {
+   "Cust_ID": "cust_11",
+   "Cust_name": "Bryan Deleon",
+   "Cust_address": "236,9th Mn, 3rd Blk, Jayanagar",
+   "Cust_city": "Bangalore",
+   "Cust_state": "Karnataka",
+   "Cust_catagory": "M"
+ },
+ {
+   "Cust_ID": "cust_12",
+   "Cust_name": "Christine Flynn",
+   "Cust_address": "W-401, Ttc Belapur Rd, Rabale",
+   "Cust_city": "Mumbai",
+   "Cust_state": "Maharastra",
+   "Cust_catagory": "M"
+ },
+ {
+   "Cust_ID": "cust_13",
+   "Cust_name": "Lisa Jefferson",
+   "Cust_address": "17/5 B, Satchasi Para Road, Cossipore",
+   "Cust_city": "Kolkata",
+   "Cust_state": "WB",
+   "Cust_catagory": "FM"
+ },
+ {
+   "Cust_ID": "cust_14",
+   "Cust_name": "Danielle Robinson",
+   "Cust_address": "25/27, K K Tagore Street, Burrabazar",
+   "Cust_city": "Kolkata",
+   "Cust_state": "WB",
+   "Cust_catagory": "M"
+ },
+ {
+   "Cust_ID": "cust_15",
+   "Cust_name": "Sydney Johnson DVM",
+   "Cust_address": "40 Marson Complex, Wuttucattan Street",
+   "Cust_city": "Chennai",
+   "Cust_state": "Tamil Nadu",
+   "Cust_catagory": "M"
+ },
+ {
+   "Cust_ID": "cust_16",
+   "Cust_name": "Sharon Butler",
+   "Cust_address": "Herekar Park, B. Manorma Appt., 7 Lane P Road, Off Bhandarkar Road Eradwane",
+   "Cust_city": "Pune",
+   "Cust_state": "Maharashtra",
+   "Cust_catagory": "FM"
+ },
+ {
+   "Cust_ID": "cust_17",
+   "Cust_name": "Brian Fleming",
+   "Cust_address": "Ground Flr, Municipal Indl Estate, V P Rd, Vile Parle (west)",
+   "Cust_city": "Mumbai",
+   "Cust_state": "Maharashtra",
+   "Cust_catagory": "M"
+ },
+ {
+   "Cust_ID": "cust_18",
+   "Cust_name": "Kelly Warner",
+   "Cust_address": "160 Avvai Shanmugam Salai, Gopalapuram",
+   "Cust_city": "Chennai",
+   "Cust_state": "Tamil Nadu",
+   "Cust_catagory": "M"
+ },
+ {
+   "Cust_ID": "cust_19",
+   "Cust_name": "Daniel Wolfe",
+   "Cust_address": "22a,royd Street, Park Street",
+   "Cust_city": "Kolkata",
+   "Cust_state": "WB",
+   "Cust_catagory": "FM"
+ },
+ {
+   "Cust_ID": "cust_20",
+   "Cust_name": "Jonathan Mcclain",
+   "Cust_address": "124, Thapar House, Janpath",
+   "Cust_city": "Delhi",
+   "Cust_state": "Delhi",
+   "Cust_catagory": "FM"
+ },
+ {
+   "Cust_ID": "cust_21",
+   "Cust_name": "Kerry Hill",
+   "Cust_address": "Opp Ksrtc Bus Station",
+   "Cust_city": "Pathanamthitta",
+   "Cust_state": "Kerala",
+   "Cust_catagory": "FM"
+ },
+ {
+   "Cust_ID": "cust_22",
+   "Cust_name": "Samantha Nixon",
+   "Cust_address": "2, Kachiguda X Roads",
+   "Cust_city": "Hyderabad",
+   "Cust_state": "Andhra Pradesh",
+   "Cust_catagory": "M"
+ },
+ {
+   "Cust_ID": "cust_23",
+   "Cust_name": "Patricia Wilson",
+   "Cust_address": "Dwarkadas Joshi Compound, S. V. Road, Opp. Bank Of India, Goregaon (west)",
+   "Cust_city": "Mumbai",
+   "Cust_state": "Maharastra",
+   "Cust_catagory": "M"
+ },
+ {
+   "Cust_ID": "cust_24",
+   "Cust_name": "Patrick Frey",
+   "Cust_address": "30b, Journalist Colony, 2nd Cross, Journalist Colony",
+   "Cust_city": "Bangalore",
+   "Cust_state": "Karnataka",
+   "Cust_catagory": "FM"
+ },
+ {
+   "Cust_ID": "cust_25",
+   "Cust_name": "Jennifer Patrick",
+   "Cust_address": "Opp Planetarium, Jaffer Khan Colony",
+   "Cust_city": "Calicut",
+   "Cust_state": "Kerala",
+   "Cust_catagory": "FM"
+ },
+ {
+   "Cust_ID": "cust_26",
+   "Cust_name": "Shelly Smith",
+   "Cust_address": "Ff-29, Swami Baug Society, Nr. Deep Chambers, Manjalpur",
+   "Cust_city": "Vadodara",
+   "Cust_state": "Gujarat",
+   "Cust_catagory": "FM"
+ },
+ {
+   "Cust_ID": "cust_27",
+   "Cust_name": "Debra Davis",
+   "Cust_address": "Nr Rajendra Nagar Police Station",
+   "Cust_city": "Indore",
+   "Cust_state": "Madhya Pradesh",
+   "Cust_catagory": "FM"
+ },
+ {
+   "Cust_ID": "cust_28",
+   "Cust_name": "Natalie Stewart",
+   "Cust_address": "LIG 277, Gandhinagar",
+   "Cust_city": "Kochi",
+   "Cust_state": "Kerala",
+   "Cust_catagory": "FM"
+ },
+ {
+   "Cust_ID": "cust_29",
+   "Cust_name": "Marc Black",
+   "Cust_address": "",
+   "Cust_city": "",
+   "Cust_state": "",
+   "Cust_catagory": "FM"
+ },
+ {
+   "Cust_ID": "cust_30",
+   "Cust_name": "Mitchell Campbell",
+   "Cust_address": "22a,royd Street, Park Street",
+   "Cust_city": "Kolkata",
+   "Cust_state": "WB",
+   "Cust_catagory": "FM"
+ },
+ {
+   "Cust_ID": "cust_31",
+   "Cust_name": "Christopher Harrison III",
+   "Cust_address": "",
+   "Cust_city": "Kolkata",
+   "Cust_state": "WB",
+   "Cust_catagory": "FM"
+ },
+ {
+   "Cust_ID": "cust_32",
+   "Cust_name": "Travis Phillips",
+   "Cust_address": "No 18, Mission Street (North) near Preumal Koin Street",
+   "Cust_city": "Pondicherry",
+   "Cust_state": "Kerala",
+   "Cust_catagory": "M"
+ },
+ {
+   "Cust_ID": "cust_33",
+   "Cust_name": "Dale Luna",
+   "Cust_address": "12/30, Daruwala Compound, S.v.road, Marve Road Junc., Malad (west)",
+   "Cust_city": "Mumbai",
+   "Cust_state": "Maharashtra",
+   "Cust_catagory": "FM"
+ },
+ {
+   "Cust_ID": "cust_34",
+   "Cust_name": "Phillip Haynes",
+   "Cust_address": "4771, 23, Bharat Ram Road",
+   "Cust_city": "Delhi",
+   "Cust_state": "Delhi",
+   "Cust_catagory": "FM"
+ },
+ {
+   "Cust_ID": "cust_35",
+   "Cust_name": "Tony Solomon",
+   "Cust_address": "13,ballygunge Terrace, Sarat Bose Road",
+   "Cust_city": "Kolkata",
+   "Cust_state": "West Bengal",
+   "Cust_catagory": "FM"
+ },
+ {
+   "Cust_ID": "cust_36",
+   "Cust_name": "Shirley Sims",
+   "Cust_address": "5-1,kssidcartatabpsolarrdele-29, Hosur Road",
+   "Cust_city": "Bangalore",
+   "Cust_state": "Karnataka",
+   "Cust_catagory": "M"
+ },
+ {
+   "Cust_ID": "cust_37",
+   "Cust_name": "Jason Lee",
+   "Cust_address": "38/3, Kanakapura Rd, Nr Uppinakayi Factory Bus Stop, Yelachenahalli",
+   "Cust_city": "Bangalore",
+   "Cust_state": "Karnataka",
+   "Cust_catagory": "M"
+ },
+ {
+   "Cust_ID": "cust_38",
+   "Cust_name": "Gary Fisher",
+   "Cust_address": "6 Shuhada Dindayal Rd, Vishnunagar",
+   "Cust_city": "Mumbai",
+   "Cust_state": "Maharashtra",
+   "Cust_catagory": "FM"
+ },
+ {
+   "Cust_ID": "cust_39",
+   "Cust_name": "Victoria Collins",
+   "Cust_address": "101-b, Rizvi Nagar, S V Road, Santacruz (west)",
+   "Cust_city": "",
+   "Cust_state": "Maharashtra",
+   "Cust_catagory": "M"
+ },
+ {
+   "Cust_ID": "cust_40",
+   "Cust_name": "Jon Cole",
+   "Cust_address": "Block-c, 24, Bangur Avenue, Bangur",
+   "Cust_city": "Kolkata",
+   "Cust_state": "",
+   "Cust_catagory": "M"
+ },
+ {
+   "Cust_ID": "cust_41",
+   "Cust_name": "Albert Simmons",
+   "Cust_address": "146/3, Coconut Avenue Road, 7th Cross, Grant Road",
+   "Cust_city": "Mumbai",
+   "Cust_state": "Maharashtra",
+   "Cust_catagory": "M"
+ },
+ {
+   "Cust_ID": "cust_42",
+   "Cust_name": "Michael Garcia",
+   "Cust_address": "New No: 29, Old No: 8/4, S;s Street",
+   "Cust_city": "Chennai",
+   "Cust_state": "Tamil Nadu",
+   "Cust_catagory": "FM"
+ },
+ {
+   "Cust_ID": "cust_43",
+   "Cust_name": "Stephanie Ray",
+   "Cust_address": "1st Floor, Jyothi Studio Compound, Irani Bridge, Girgaon",
+   "Cust_city": "Mumbai",
+   "Cust_state": "Maharastra",
+   "Cust_catagory": "FM"
+ },
+ {
+   "Cust_ID": "cust_44",
+   "Cust_name": "Debra King",
+   "Cust_address": "402, Labh Complex, Opp Sakar 3 Sattar Taluka Society, Income Tax",
+   "Cust_city": "Ahmedabad",
+   "Cust_state": "Gujarat",
+   "Cust_catagory": "M"
+ },
+ {
+   "Cust_ID": "cust_45",
+   "Cust_name": "George Fields",
+   "Cust_address": "9a/1, Scheme-6, G.b. Shetye Bldg, Opp Peninsula Hotel, Sion",
+   "Cust_city": "Mumbai",
+   "Cust_state": "Maharastra",
+   "Cust_catagory": "FM"
+ },
+ {
+   "Cust_ID": "cust_46",
+   "Cust_name": "Anne Phillips",
+   "Cust_address": "4, No 63, Swastik Society, No 4 Juhu Scheme, Vile Parle(w)",
+   "Cust_city": "Mumbai",
+   "Cust_state": "Maharastra",
+   "Cust_catagory": "FM"
+ },
+ {
+   "Cust_ID": "cust_47",
+   "Cust_name": "Jason Campbell",
+   "Cust_address": "Basement No 1, Mahavir Apts., Main Road, Near Bhatia Hospital, Grant Road",
+   "Cust_city": "Mumbai",
+   "Cust_state": "Maharastra",
+   "Cust_catagory": "FM"
+ },
+ {
+   "Cust_ID": "cust_48",
+   "Cust_name": "Jessica Boone",
+   "Cust_address": "Block-c, 24, Bangur Avenue, Bangur",
+   "Cust_city": "Kolkata",
+   "Cust_state": "",
+   "Cust_catagory": "FM"
+ },
+ {
+   "Cust_ID": "cust_49",
+   "Cust_name": "Lisa Conrad",
+   "Cust_address": "6, 3rd Floor, Gariahat Road (s), Dhakuria",
+   "Cust_city": "Kolkata",
+   "Cust_state": "WB",
+   "Cust_catagory": "FM"
+ },
+ {
+   "Cust_ID": "cust_50",
+   "Cust_name": "Jenna Anderson",
+   "Cust_address": "Edsys Towers, Nr ICICI Bank ATM, Kamaleswaram",
+   "Cust_city": "Trivandrum",
+   "Cust_state": "Kerala",
+   "Cust_catagory": "M"
+ }
+]
